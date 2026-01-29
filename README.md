@@ -13,3 +13,17 @@ https://pdfs.semanticscholar.org/5f79/3a856b54a613b5101abcc007f03880407b04.pdf
 https://nhsrcindia.org/sites/default/files/2022-05/MNS%20care%20Training%20manual%20for%20CHO.pdf
 https://traci.in/wp-content/uploads/2023/10/Suicide-Prevention_A-Toolkit_TRACI.pdf
 https://media.path.org/documents/SAMYP_LandscapeReport_final.pdf
+
+
+
+
+about project -
+Built an AI Job Finder & Resume Optimizer using multi-agent architecture to scrape job listings, analyze JDs, and generate tailored resumes and cover letters automatically.
+
+
+Implemented JD skill extraction, ATS keyword matching, and job-fit scoring to personalize resume content and compute match percentage per role.
+
+
+Automated PDF resume and cover-letter generation, improving application relevance and reducing manual effort in job search workflows.
+
+
