@@ -1,0 +1,29 @@
+# Core API
+fastapi
+uvicorn
+
+# UI (optional)
+streamlit
+requests
+
+# LangChain stack (DO NOT pin old versions)
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+
+# Vector DB
+faiss-cpu
+
+# Embeddings / NLP
+sentence-transformers
+transformers
+huggingface-hub
+torch==2.1.2
+
+
+# Utilities
+pydantic
+langdetect
+pypdf
+ollama

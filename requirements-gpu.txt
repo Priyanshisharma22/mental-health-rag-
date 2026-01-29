@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+
+langchain==0.1.16
+langchain-core==0.1.42
+langchain-community==0.0.34
+langchain-huggingface==0.0.3
+
+transformers==4.36.2
+sentence-transformers==2.2.2
+
+faiss-cpu
+pypdf
+requests
+ollama
