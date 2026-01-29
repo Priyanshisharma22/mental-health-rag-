@@ -16,6 +16,11 @@ https://media.path.org/documents/SAMYP_LandscapeReport_final.pdf
 
 
 
+About Project -
 
+Built a bilingual mental health Q&A system with automatic language detection.
+Implemented RAG over government and NGO mental health PDFs.
+Integrated document retrieval with LLM-based reasoning.
+Dockerized the system for scalable deployment.
 
 
