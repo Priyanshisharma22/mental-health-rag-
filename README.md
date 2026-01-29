@@ -17,7 +17,7 @@ https://media.path.org/documents/SAMYP_LandscapeReport_final.pdf
 
 
 
-about project -
+About project -
 Built an AI Job Finder & Resume Optimizer using multi-agent architecture to scrape job listings, analyze JDs, and generate tailored resumes and cover letters automatically.
 
 
